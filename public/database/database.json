@@ -1,0 +1,101 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Carolina Bustamante",
+      "username": "caro",
+      "email": "caro@gmail.com",
+      "password": "caro123"
+    },
+    {
+      "id": "576b",
+      "name": "Carolina Bustamante Escobar",
+      "username": "caro2",
+      "email": "caro2@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "products": [
+    {
+      "name": "Drill",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCVIefrzX_L-efJLJ1eUE7iRW1BhT9Ex9BTg&s",
+      "description": "Electric drill",
+      "price": "30000",
+      "amount": "10",
+      "type": "machinery",
+      "id": "def2"
+    },
+    {
+      "name": "Cement",
+      "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQyKo5LEcwJr8d2ccRlT2libJtGF6VXrYx1MbbS4vJK3BB18Lmb1Lr95w5Z-TxGYsQX7hmVEwU9mGiLS7EHXNCc2pnJedhy&usqp=CAE",
+      "description": "Argos gray cement",
+      "price": "37000",
+      "amount": "10",
+      "type": "material",
+      "id": "ba71"
+    },
+    {
+      "name": "Screwdriver",
+      "img": "https://www.ferreteriasuprema.com/cdn/shop/products/Juegodedestornilladores_1200x1200.jpg?v=1609940646",
+      "description": "Screwdriver kit x2",
+      "price": "17000",
+      "amount": "0",
+      "type": "tool",
+      "id": "dcbb"
+    },
+    {
+      "id": "9bd8",
+      "name": "perforated brick",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPEnVvkm_DEpswTEgaR30qpXkxagXxKDlsg&s",
+      "description": "Perforated brick 6cm x 25cm",
+      "price": "2038",
+      "amount": "1000",
+      "type": "material"
+    },
+    {
+      "name": "welder",
+      "img": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/552885/w=1036,h=832,f=webp,fit=contain,q=85",
+      "description": "Inverter 160A 110/220V",
+      "price": "740000",
+      "amount": "4",
+      "type": "machinery",
+      "id": "7507"
+    },
+    {
+      "name": "Hammer",
+      "img": "https://cdn11.bigcommerce.com/s-30beba0oyi/images/stencil/1280x1280/products/1593/2179/CTpr100016__90535.1611412866.1280.1280__11875.1611419331.1280.1280__51393.1611419401.jpg?c=2",
+      "description": "8 lb Steel Sledge Hammer with 16\" wood handle",
+      "price": "250000",
+      "amount": "0",
+      "type": "tool",
+      "id": "3257"
+    },
+    {
+      "id": "dd75",
+      "name": "Pressure Washer",
+      "img": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/379159/w=1036,h=832,f=webp,fit=contain,q=85",
+      "description": "1300psi Máx. 5.0lt/Min 1150w Smart Karson",
+      "price": "170000",
+      "amount": "3",
+      "type": "machinery"
+    },
+    {
+      "id": "d73f",
+      "name": "Hand Tools",
+      "img": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/160689/w=1036,h=832,f=webp,fit=contain,q=85",
+      "description": "250 Piece Hand Tool Set",
+      "price": "209900",
+      "amount": "2",
+      "type": "tool"
+    },
+    {
+      "id": "aa32",
+      "name": "Mortar",
+      "img": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/156268/w=1036,h=832,f=webp,fit=contain,q=85",
+      "description": "Sikatop 107 Seal Semi-Flexible Waterproof Coating",
+      "price": "241000",
+      "amount": "0",
+      "type": "material"
+    }
+  ]
+}
